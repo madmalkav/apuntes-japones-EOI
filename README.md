@@ -5,3 +5,5 @@ Los contenidos dados en 1ro son aquellos con encabezados en azul, los estudiados
 Las fuentes usadas son Yu Gothic Light y Kanji Stroke Orders.
 
 Se agradecen comentarios y correciones.
+
+Licencia CC-BY-NC-SA 4.0
